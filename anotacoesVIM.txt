@@ -1,0 +1,22 @@
+ANOTAÇÕES IMPORTANTES
+
+*COMO SAIR DO VIM*
+:q (sai sem alterar o arquivo)
+:wq (sai salvando todas as alterações feitas no arquivo)
+:!q (sai sem salvar as alterações feitas no arquivo)
+
+:w (apenas salva, sem sair)
+
+i (entra e sai do modo INSERT)
+u (desfaz a ultima alteração feita)
+y (copia o caracter mais proximo do cursor)
+yy (copia a linha toda)
+p (cola o que estiver copiado)
+
+*COMO MOVER O CURSOR SEM USAR AS SETINHAS*
+H (esquerda)
+L (direita) 
+J (baixo)
+K (cima)
+
+obs: nao funciona no modo INSERT
